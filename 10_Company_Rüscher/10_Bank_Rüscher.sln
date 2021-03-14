@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Bank_Rüscher", "10_Bank_Rüscher\10_Bank_Rüscher.csproj", "{61DECF8C-5FB8-4A04-B2F1-45F8C38FED80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61DECF8C-5FB8-4A04-B2F1-45F8C38FED80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DECF8C-5FB8-4A04-B2F1-45F8C38FED80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DECF8C-5FB8-4A04-B2F1-45F8C38FED80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DECF8C-5FB8-4A04-B2F1-45F8C38FED80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

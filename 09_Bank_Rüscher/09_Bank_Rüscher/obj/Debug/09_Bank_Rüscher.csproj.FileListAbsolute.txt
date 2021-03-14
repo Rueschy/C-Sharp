@@ -1,0 +1,14 @@
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\bin\Debug\09_Bank_Rüscher.exe.config
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\bin\Debug\09_Bank_Rüscher.exe
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\bin\Debug\09_Bank_Rüscher.pdb
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\obj\Debug\09_Bank_Rüscher.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\obj\Debug\MainWindow.g.cs
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\obj\Debug\App.g.cs
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\obj\Debug\09_Bank_Rüscher_MarkupCompile.cache
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\obj\Debug\09_Bank_Rüscher_MarkupCompile.lref
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\obj\Debug\MainWindow.baml
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\obj\Debug\09_Bank_Rüscher.g.resources
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\obj\Debug\_09_Bank_Rüscher.Properties.Resources.resources
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\obj\Debug\09_Bank_Rüscher.csproj.GenerateResource.Cache
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\obj\Debug\09_Bank_Rüscher.exe
+C:\Users\chris\Documents\2016-17\SEW\09_Bank_Rüscher\09_Bank_Rüscher\obj\Debug\09_Bank_Rüscher.pdb

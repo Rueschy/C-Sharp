@@ -1,0 +1,63 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _17_MovieCollection_Rüscher
+{
+    public class Movie
+    {
+        string title;
+        string director;
+        int year;
+        int runTime;
+
+        public Movie()
+        {
+
+        }
+
+        public Movie(string title, string director, int year, int runTime)
+        {
+            this.title = title;
+            this.director = director;
+            this.year = year;
+            this.runTime = runTime;
+        }
+
+        public string Title
+        {
+            get { return title; }
+            set { title = value; }
+        }
+
+        public string Director
+        {
+            get { return director; }
+            set { director = value; }
+        }
+
+        public int Year
+        {
+            get { return year; }
+            set { year = value; }
+        }
+
+        public int RunTime
+        {
+            get { return runTime; }
+            set { runTime = value; }
+        }
+
+        public override string ToString()
+        {
+            return title + ": " + year;
+        }
+
+        public string ToStringForFile()
+        {
+            return title + ";" + director + ";" + year + ";" + runTime;
+        }
+    }
+}

@@ -1,0 +1,28 @@
+Main Window:
+<Grid>
+        <ListBox Height="266" HorizontalAlignment="Left" Margin="28,42,0,0" x:Name="listBoxMovies" VerticalAlignment="Top" Width="272" />
+        <Label Content="My Movie Database:" Height="28" HorizontalAlignment="Left" Margin="28,12,0,0" Name="label1" VerticalAlignment="Top" />
+        <Button Content="Add" Height="23" HorizontalAlignment="Left" Margin="318,42,0,0" Name="buttonAdd" VerticalAlignment="Top" Width="75" />
+        <Button Content="Change" Height="23" HorizontalAlignment="Left" Margin="318,71,0,0" Name="buttonChange" VerticalAlignment="Top" Width="75"  />
+        <Button Content="Delete" Height="23" HorizontalAlignment="Left" Margin="318,100,0,0" Name="buttonDelete" VerticalAlignment="Top" Width="75"  />
+        <TextBox x:Name="textBoxFilterText" HorizontalAlignment="Left" Height="23" Margin="318,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Filter by Year" Height="23" HorizontalAlignment="Left" Margin="318,166,0,0" x:Name="buttonFilterByYear" VerticalAlignment="Top" Width="75" />
+        <Button Content="Get by Title" Height="23" HorizontalAlignment="Left" Margin="318,194,0,0" x:Name="buttonGetByTitle" VerticalAlignment="Top" Width="75" />
+        <Button Content="Show All" Height="23" HorizontalAlignment="Left" Margin="318,222,0,0" x:Name="buttonShowAll" VerticalAlignment="Top" Width="75"  />
+        <Button Content="Load file..." Height="23" HorizontalAlignment="Left" Margin="318,258,0,0" x:Name="buttonLoad" VerticalAlignment="Top" Width="75"  />
+        <Button Content="Save file as.." Height="23" HorizontalAlignment="Left" Margin="318,286,0,0" x:Name="buttonSaveAs" VerticalAlignment="Top" Width="75" />
+</Grid>
+
+Detail Window:
+    <Grid>
+        <Label Content="Title:" Height="28" HorizontalAlignment="Left" Margin="48,24,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="91,26,0,0" Name="textBoxTitle" VerticalAlignment="Top" Width="120" />
+        <Label Content="Director:" Height="28" HorizontalAlignment="Left" Margin="28,55,0,0" Name="label2" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="91,55,0,0" Name="textBoxDirector" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="91,87,0,0" Name="textBoxYear" VerticalAlignment="Top" Width="120" />
+        <Label Content="Year:" Height="28" HorizontalAlignment="Left" Margin="47,85,0,0" Name="label3" VerticalAlignment="Top" />
+        <Button Content="Save" Height="23" HorizontalAlignment="Left" Margin="48,154,0,0" Name="buttonSave" VerticalAlignment="Top" Width="75" />
+        <Button Content="Cancel" Height="23" HorizontalAlignment="Left" Margin="136,154,0,0" Name="buttonCancel" VerticalAlignment="Top" Width="75" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="91,118,0,0" Name="textBoxRunTime" VerticalAlignment="Top" Width="120" />
+        <Label Content="Run Time:" Height="28" HorizontalAlignment="Left" Margin="21,116,0,0" Name="label4" VerticalAlignment="Top" />
+    </Grid>

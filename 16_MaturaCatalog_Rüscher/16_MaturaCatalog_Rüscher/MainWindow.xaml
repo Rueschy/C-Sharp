@@ -1,0 +1,28 @@
+﻿<Window x:Class="_16_MaturaCatalog_Rüscher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_16_MaturaCatalog_Rüscher"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="label" Content="ID:" HorizontalAlignment="Left" Margin="40,21,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Student:" HorizontalAlignment="Left" Margin="40,52,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Subject:" HorizontalAlignment="Left" Margin="40,83,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Mark:" HorizontalAlignment="Left" Margin="40,114,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="Exams:" HorizontalAlignment="Left" Margin="40,159,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label5" Content="Result:" HorizontalAlignment="Left" Margin="40,277,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxID" HorizontalAlignment="Left" Height="23" Margin="106,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBoxStudent" HorizontalAlignment="Left" Height="23" Margin="106,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBoxSubject" HorizontalAlignment="Left" Height="23" Margin="106,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBoxMark" HorizontalAlignment="Left" Height="23" Margin="106,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ListBox x:Name="listBoxExams" HorizontalAlignment="Left" Height="111" Margin="106,159,0,0" VerticalAlignment="Top" Width="232" SelectionChanged="listBoxExams_SelectionChanged"/>
+        <TextBox x:Name="textBoxResult" HorizontalAlignment="Left" Height="23" Margin="106,281,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="buttonAdd" Content="Add" HorizontalAlignment="Left" Margin="249,25,0,0" VerticalAlignment="Top" Width="89" Height="23" Click="buttonAdd_Click"/>
+        <Button x:Name="buttonSelect" Content="Select" HorizontalAlignment="Left" Margin="249,56,0,0" VerticalAlignment="Top" Width="89" Height="22" Click="buttonSelect_Click"/>
+        <Button x:Name="buttonReset" Content="Reset" HorizontalAlignment="Left" Margin="249,87,0,0" VerticalAlignment="Top" Width="89" Height="23" Click="buttonReset_Click"/>
+        <Button x:Name="buttonRate" Content="Rate" HorizontalAlignment="Left" Margin="249,118,0,0" VerticalAlignment="Top" Width="89" Height="23" Click="buttonRate_Click"/>
+
+    </Grid>
+</Window>

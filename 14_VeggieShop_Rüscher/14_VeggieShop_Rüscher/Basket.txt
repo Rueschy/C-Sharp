@@ -1,0 +1,4 @@
+Product:	Birne	Unitprice:	2	Amount:	2	Category:	A
+Product:	Apfel	Unitprice:	1	Amount:	4	Category:	A
+Product:	Banane	Unitprice:	1,805	Amount:	3	Category:	B
+Product:	Ananas	Unitprice:	3	Amount:	2	Category:	C

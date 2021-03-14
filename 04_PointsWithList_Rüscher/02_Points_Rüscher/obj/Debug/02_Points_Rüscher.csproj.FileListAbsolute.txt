@@ -1,0 +1,31 @@
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\bin\Debug\02_Points_Rüscher.exe.config
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\bin\Debug\02_Points_Rüscher.exe
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\bin\Debug\02_Points_Rüscher.pdb
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\obj\Debug\02_Points_Rüscher.csprojResolveAssemblyReference.cache
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\obj\Debug\MainWindow.g.cs
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\obj\Debug\App.g.cs
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\obj\Debug\02_Points_Rüscher_MarkupCompile.cache
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\obj\Debug\02_Points_Rüscher_MarkupCompile.lref
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\obj\Debug\MainWindow.baml
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\obj\Debug\02_Points_Rüscher.g.resources
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\obj\Debug\_02_Points_Rüscher.Properties.Resources.resources
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\obj\Debug\02_Points_Rüscher.csproj.GenerateResource.Cache
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\obj\Debug\02_Points_Rüscher.exe
+H:\2AHIT 2016-17\SEW\02_Points_Rüscher\02_Points_Rüscher\obj\Debug\02_Points_Rüscher.pdb
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\bin\Debug\02_Points_Rüscher.exe.config
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\obj\Debug\02_Points_Rüscher.exe
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\obj\Debug\02_Points_Rüscher.pdb
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\bin\Debug\02_Points_Rüscher.exe
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\bin\Debug\02_Points_Rüscher.pdb
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\obj\Debug\02_Points_Rüscher.csprojResolveAssemblyReference.cache
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\obj\Debug\MainWindow.g.cs
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\obj\Debug\App.g.cs
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\obj\Debug\02_Points_Rüscher_MarkupCompile.cache
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\obj\Debug\02_Points_Rüscher_MarkupCompile.lref
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\obj\Debug\MainWindow.baml
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\obj\Debug\02_Points_Rüscher.g.resources
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\obj\Debug\_02_Points_Rüscher.Properties.Resources.resources
+H:\2AHIT 2016-17\SEW\04_PointsWithList\02_Points_Rüscher\obj\Debug\02_Points_Rüscher.csproj.GenerateResource.Cache
+C:\Users\chris\Documents\2016-17\SEW\04_PointsWithList\02_Points_Rüscher\bin\Debug\02_Points_Rüscher.exe.config
+C:\Users\chris\Documents\2016-17\SEW\04_PointsWithList\02_Points_Rüscher\obj\Debug\02_Points_Rüscher.exe
+C:\Users\chris\Documents\2016-17\SEW\04_PointsWithList\02_Points_Rüscher\obj\Debug\02_Points_Rüscher.pdb

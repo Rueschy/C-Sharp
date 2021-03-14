@@ -1,0 +1,32 @@
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\bin\Debug\01_SavingBook_Rüscher.exe.config
+C:\Users\chris\Documents\2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\bin\Debug\01_SavingBook_Rüscher.exe.config
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\bin\Debug\01_SavingBook_Rüscher.exe
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\bin\Debug\01_SavingBook_Rüscher.pdb
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher.csprojResolveAssemblyReference.cache
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\obj\Debug\MainWindow.g.cs
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\obj\Debug\App.g.cs
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher_MarkupCompile.cache
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher_MarkupCompile.lref
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\obj\Debug\MainWindow.baml
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher.g.resources
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\obj\Debug\_01_SavingBook_Rüscher.Properties.Resources.resources
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher.csproj.GenerateResource.Cache
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher.exe
+H:\2AHIT 2016-17\SEW\01_SavingBook_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher.pdb
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\bin\Debug\01_SavingBook_Rüscher.exe.config
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher.exe
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher.pdb
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\bin\Debug\01_SavingBook_Rüscher.exe
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\bin\Debug\01_SavingBook_Rüscher.pdb
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher.csprojResolveAssemblyReference.cache
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\obj\Debug\MainWindow.g.cs
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\obj\Debug\App.g.cs
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher_MarkupCompile.cache
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher_MarkupCompile.lref
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\obj\Debug\MainWindow.baml
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher.g.resources
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\obj\Debug\_01_SavingBook_Rüscher.Properties.Resources.resources
+H:\2AHIT 2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher.csproj.GenerateResource.Cache
+C:\Users\chris\Documents\2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\bin\Debug\01_SavingBook_Rüscher.exe.config
+C:\Users\chris\Documents\2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher.exe
+C:\Users\chris\Documents\2016-17\SEW\06_SavingbookWithList_Rüscher\01_SavingBook_Rüscher\obj\Debug\01_SavingBook_Rüscher.pdb
